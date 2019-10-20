@@ -24,8 +24,8 @@ json = {
 	aId: 2342
 }
 
-// add only below mentioned in output json <br/>
-inclusionFilter = ["p.pid", "p.items.itemId", "aId"]; 
+
+inclusionFilter = ["p.pid", "p.items.itemId", "aId"];  // add only below mentioned in output json <br/>
 
 <b>Output:</b>
 {"p":{"pid":123,"items":[{"itemId":1},{"itemId":2}]},"aId":2342}
