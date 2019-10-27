@@ -72,3 +72,6 @@ PATH : js/jsonFiltering.js
 
 <b>Output: </b> {"p":{"pid":123,"items":[{"itemId":1,"itemK":20},{"itemId":2,"itemK":30}],"soldItems":[{"itemId":1,"itemK":20},{"itemId":2,"itemK":30}]},"aId":2342}
 
+Fix: 
+Code: https://ideone.com/m8UGgs
+Path: js/jsonFiltering.js
