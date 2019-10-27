@@ -35,7 +35,7 @@ CODE : https://ideone.com/dZm6or <br/>
 PATH : js/jsonFiltering.js
 
 <b>Known Bugs</b>
-1. When 2 sibling json having same key values & included in filter-
+1. When 2 sibling json having same key values & included in filter-<br/>
 <b>Input: </b> {
 	p: {
 		pid: 123,
@@ -67,7 +67,7 @@ PATH : js/jsonFiltering.js
 	aId: 2342
 }
 
-<b>IUnclusion filter: </b> ["p.pid", "p.items.itemId", "aId","p.soldItems.itemK"]
+<b>Inclusion filter: </b> ["p.pid", "p.items.itemId", "aId","p.soldItems.itemK"]
 
 <b>Output: </b> {"p":{"pid":123,"items":[{"itemId":1,"itemK":20},{"itemId":2,"itemK":30}],"soldItems":[{"itemId":1,"itemK":20},{"itemId":2,"itemK":30}]},"aId":2342}
 
