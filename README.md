@@ -74,5 +74,12 @@ Bug 1: When 2 sibling json having same key values & included in filter (Fixed)<b
 <b>Output: </b> {"p":{"pid":123,"items":[{"itemId":1,"itemK":20},{"itemId":2,"itemK":30}],"soldItems":[{"itemId":1,"itemK":20},{"itemId":2,"itemK":30}]},"aId":2342}
 
 <b>Bug 1 Solution:</b> <br/>
-Code: https://ideone.com/m8UGgs
+Code: https://ideone.com/m8UGgs<br/>
 Path: js/jsonFiltering.js
+
+
+<h2>Problem 2</h2> 
+<h6>Orchestrator framework for sending async parallel request & sequential http request</h6>
+PATH: Java/Orchestrator/HttpExecutorService
+
+
