@@ -1,7 +1,7 @@
-# CODE
+# Interesting Problems
 Repo Description: Some random problems & their solutions
 
-Problem 1 - n level deep filtering in json
+<h1>Problem 1</h1> - n level deep filtering in json
 
 <b>Input:</b>
 
