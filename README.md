@@ -35,7 +35,7 @@ inclusionFilter = ["p.pid", "p.items.itemId", "aId"];  // add only mentioned key
 CODE : https://ideone.com/dZm6or <br/>
 PATH : js/jsonFiltering.js
 
-<b>Known Bugs</b>
+<b>Known Bugs</b><br/>
 Bug 1. When 2 sibling json having same key values & included in filter (Fixed)<br/>
 
 <b>Input: </b> {
