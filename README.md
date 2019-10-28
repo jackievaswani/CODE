@@ -36,7 +36,7 @@ CODE : https://ideone.com/dZm6or <br/>
 PATH : js/jsonFiltering.js
 
 <b>Known Bugs</b><br/>
-Bug 1. When 2 sibling json having same key values & included in filter (Fixed)<br/>
+Bug 1: When 2 sibling json having same key values & included in filter (Fixed)<br/>
 
 <b>Input: </b> {
 	p: {
