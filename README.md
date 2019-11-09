@@ -80,6 +80,9 @@ Path: js/jsonFiltering.js
 
 <h2>Problem 2</h2> 
 <h6>Orchestrator framework for sending async parallel request & sequential http request</h6>
-PATH: Java/Orchestrator/HttpExecutorService
+
+Example- Suppose some rest api(/api3) requires input param whose values are depend upon other 2 apis(/api1 & /api2) This framework can be used to get data async/parallely from /api1 & /api2 & then /api3 is called sequentially after 1st two api response is received.
+
+PATH: https://github.com/jackievaswani/Orchestrator
 
 
